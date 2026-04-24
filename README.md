@@ -1,5 +1,5 @@
 # 🔐 SOC-Sentinel
-
+![Python](https://img.shields.io/badge/Python-3.x-blue)
 Real-Time Brute Force Detection Tool (SOC Project)
 
 ## 🚀 Overview
