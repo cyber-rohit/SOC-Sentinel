@@ -31,7 +31,9 @@ python3 monitor.py
 
 ![Step 1](https://raw.githubusercontent.com/cyber-rohit/SOC-Sentinel/main/S1.PNG)
 
+
 ![Step 2](https://raw.githubusercontent.com/cyber-rohit/SOC-Sentinel/main/S2.PNG)
+
 
 ![Step 3](https://raw.githubusercontent.com/cyber-rohit/SOC-Sentinel/main/S3.PNG)
 
